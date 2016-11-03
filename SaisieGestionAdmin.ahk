@@ -1,3 +1,5 @@
+; Le but de ce script est de mettre à jour les carrières des élèves passant de 2A à 3A, ie d'élève à ingénieur stagiaire
+
 F2::
 Loop, 10{
   CoordMode, Mouse, Screen 
